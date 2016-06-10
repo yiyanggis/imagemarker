@@ -1,0 +1,22 @@
+{
+  "name": "imagemarker",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Yi Yang <yidongwork@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^2.2.4",
+    "underscore": "^1.8.3"
+  }
+}
